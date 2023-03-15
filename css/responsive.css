@@ -4,22 +4,13 @@
 @keyframes paralex-animate {
 
 
-  0%,20% {
-    background: url('../Image/Gate.jpeg') no-repeat center;
-    background-attachment: fixed; background-size: 100% 100%;
-  }
-
-
-  25%,45%{
-    background: url('../image/Build2.jpg') no-repeat center;
-    background-attachment: fixed; background-size: 100% 100%;
-  }
+ 
   
-  50%,70%{
+  0%,25%{
     background: url('../Image/himgate2.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
-  75%,95%{
+  30%,65%{
     background: url('../Image/tec.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
