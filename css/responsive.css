@@ -4,7 +4,7 @@
 @keyframes paralex-animate {
 
 
-  00%,30% {
+  0%,30% {
     background: url('../Image/Gate.jpeg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
