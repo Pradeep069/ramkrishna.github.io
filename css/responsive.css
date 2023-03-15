@@ -5,18 +5,18 @@
   
   
  
-
-   0%,5%{
-    background: url('../Image/himgate2.jpg') no-repeat center;
-    background-attachment: fixed; background-size: 100% 100%;
-  }
-  20%,80%{
+20%,80%{
     background: url('../Image/tec.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
 
 
 
+   0%,5%{
+    background: url('../Image/himgate2.jpg') no-repeat center;
+    background-attachment: fixed; background-size: 100% 100%;
+  }
+  
   
 }
 
