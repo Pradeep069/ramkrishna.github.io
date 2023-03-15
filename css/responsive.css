@@ -5,17 +5,21 @@
   
   
  
-0%,2%{
+0%,10%{
     background: url('../Image/tec3.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
 
 
 
-   20%,50%{
+   11%,30%{
     background: url('../Image/himgate2.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
-  }
+     }
+  
+  31%,90%{
+    background: url('../Image/tec.jpg') no-repeat center;
+    background-attachment: fixed; background-size: 100% 100%;
   
   
 }
