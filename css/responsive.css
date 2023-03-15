@@ -4,22 +4,13 @@
 @keyframes paralex-animate {
   
   
- 0%,15%{
-    background: url('../Image/tec3.jpg') no-repeat center;
-    background-attachment: fixed; background-size: 100% 100%;
-  }
+ 
 
-
-  20%,30%{
-    background: url('../image/Build2.jpg') no-repeat center;
-    background-attachment: fixed; background-size: 100% 100%;
-  }
-
-   40%,50%{
+   0%,5%{
     background: url('../Image/himgate2.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
-  60%,80%{
+  20%,80%{
     background: url('../Image/tec.jpg') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
